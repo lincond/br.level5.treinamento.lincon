@@ -31,6 +31,8 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	background: #11151C;
+	color: white;
+	font-family: arial;
 }
 ol, ul {
 	list-style: none;
@@ -88,7 +90,7 @@ header
 	width: 90.5%;
 	height: 150px;
 	background: #212D40;
-	margin: 1.5% 0 0 0; 
+	margin: 1.5% 0 0 0;
 	padding: 2.5em 0 0 1.2em
 }
 
